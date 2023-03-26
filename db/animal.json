@@ -1,0 +1,28 @@
+{
+   "hewan": [
+      { "id": 1, "name": "Long-nosed bandicoot", "color": "Turquoise" },
+      { "id": 2, "name": "Fox, bat-eared", "color": "Fuscia" },
+      { "id": 3, "name": "Common brushtail possum", "color": "Violet" },
+      { "id": 4, "name": "Ground legaan", "color": "Aquamarine" },
+      { "id": 5, "name": "Plover, blacksmith", "color": "Aquamarine" },
+      { "id": 6, "name": "Indian porcupine", "color": "Maroon" },
+      { "id": 7, "name": "Kangaroo, red", "color": "Indigo" },
+      { "id": 8, "name": "Eurasian badger", "color": "Fuscia" },
+      { "id": 9, "name": "Cape cobra", "color": "Teal" },
+      { "id": 10, "name": "Paradoxure", "color": "Yellow" },
+      { "id": 11, "name": "Seal, southern elephant", "color": "Orange" },
+      { "id": 12, "name": "Dove, white-winged", "color": "Goldenrod" },
+      { "id": 13, "name": "Cat, tiger", "color": "Maroon" },
+      { "id": 14, "name": "Partridge, coqui", "color": "Yellow" },
+      { "id": 15, "name": "Dragon, western bearded", "color": "Yellow" },
+      { "id": 16, "name": "Goanna lizard", "color": "Khaki" },
+      { "id": 17, "name": "Brown brocket", "color": "Indigo" },
+      {
+         "id": 18,
+         "name": "Snake, western patch-nosed",
+         "color": "Indigo"
+      },
+      { "id": 19, "name": "Cat, tiger", "color": "Aquamarine" },
+      { "id": 20, "name": "Fox, arctic", "color": "Puce" }
+   ]
+}
