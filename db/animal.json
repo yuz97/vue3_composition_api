@@ -24,5 +24,17 @@
       },
       { "id": 19, "name": "Cat, tiger", "color": "Aquamarine" },
       { "id": 20, "name": "Fox, arctic", "color": "Puce" }
+   ],
+   "buah": [
+      { "id": 1, "name": "apel", "color": "red" },
+      { "id": 2, "name": "banana", "color": "yellow" },
+      { "id": 3, "name": "melon", "color": "green" },
+      { "id": 4, "name": "jeruk", "color": "orange" },
+      { "id": 5, "name": "fruit star", "color": "yellow" },
+      { "id": 6, "name": "cherry", "color": "red" },
+      { "id": 7, "name": "avocado", "color": "green" },
+      { "id": 8, "name": "semangka", "color": "green" },
+      { "id": 9, "name": "jambu air", "color": "red" },
+      { "id": 10, "name": "nanas", "color": "yellow" }
    ]
 }

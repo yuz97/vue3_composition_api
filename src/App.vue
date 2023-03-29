@@ -3,7 +3,8 @@
       <router-link to="/" exact>Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/contact">Contact</router-link> |
-      <router-link to="/post">Post </router-link>
+      <router-link to="/post">Post </router-link> |
+      <router-link to="/post2">Post-2 </router-link>
    </div>
    <br />
    <router-view></router-view>

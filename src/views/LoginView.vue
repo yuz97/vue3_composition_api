@@ -34,12 +34,16 @@ export default {
    setup() {
       const router = useRouter();
       const store = useStore();
+
       const username = ref("");
 
       const login = () => {
          localStorage.setItem("authenticated", true);
-         store.commit("setUsername", username.value);
-         router.push({ name: "post" });
+         // store.commit("setUsername", username.value);
+         // store.dispatch("getCredential");
+         store.commit("user/setUsername", username.value);
+         store.dispatch("user/getCredential");
+         router.push({ name: "post2" });
       };
 
       return {
